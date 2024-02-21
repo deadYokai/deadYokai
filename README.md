@@ -8,8 +8,7 @@
 🌱 I’m currently learning linux kernel
 
 📫 How to reach me:
-  * Steam: [@deadyokai](https://steamcommunity.com/id/deadyokai/),
-  * Instagram: [@walkingdeadyoki](https://instagram.com/walkingdeadyoki)
+  * Steam: [@deadyokai](https://steamcommunity.com/id/deadyokai/)
          
 [![GitHub Streak](https://streak-stats.demolab.com?user=deadYokai&theme=violet-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&locale=uk)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=deadYokai&theme=violet-dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
