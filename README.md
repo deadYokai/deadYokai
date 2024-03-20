@@ -5,7 +5,7 @@
 
 👀 I'm interested in sleep
 
-🌱 I’m currently learning linux kernel
+🌱 I’m currently translating some games to my native language
 
 📫 How to reach me:
   * Steam: [@deadyokai](https://steamcommunity.com/id/deadyokai/)
