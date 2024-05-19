@@ -1,14 +1,8 @@
+[![linux-tkg | ArchLinux | Hyprland | wayland](https://img.shields.io/badge/linux--tkg%20%7C%20ArchLinux%20%7C%20Hyprland%20%7C%20wayland-black?style=for-the-badge)](#)
 
-🇺🇦🇺🇦Help Ukraine🇺🇦🇺🇦: [United24](https://u24.gov.ua/), [Come Back Alive](https://savelife.in.ua/en/), [Hospitallers](https://www.hospitallers.life/needs-hospitallers), [Charity foundation of Serhiy Prytula](https://prytulafoundation.org/en), [Humanitarian aid](https://help.gov.ua/en/)
+[![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/🇺🇦HELP%20UKRAINE🇺🇦-black?labelColor=grey&style=for-the-badge)](#)
 
-👋 Hi, I’m [@deadYokai](https://github.com/deadYokai) (aka MyNameIsKitsune)
-
-👀 I'm interested in sleep
-
-🌱 I’m currently translating some games to my native language
-
-📫 How to reach me:
-  * Steam: [@deadyokai](https://steamcommunity.com/id/deadyokai/)
-         
-[![GitHub Streak](https://streak-stats.demolab.com?user=deadYokai&theme=violet-dark&border_radius=5&date_format=j%20M%5B%20Y%5D&locale=uk)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com?user=deadYokai&theme=violet-dark&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/United24-black?style=for-the-badge&link=https://u24.gov.ua/)](https://u24.gov.ua/)
+[![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/Hospitallers-red?style=for-the-badge&link=https://www.hospitallers.life/needs-hospitallers)](https://www.hospitallers.life/needs-hospitallers)
+[![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/Charity_foundation_of_Serhiy_Prytula-white?style=for-the-badge&link=https://prytulafoundation.org/en)](https://prytulafoundation.org/en)
+[![🇺🇦HELP UKRAINE🇺🇦](https://img.shields.io/badge/Humanitarian_aid-yellow?style=for-the-badge&link=https://help.gov.ua/en/)](https://help.gov.ua/en/)
