@@ -28,10 +28,7 @@ My projects live at **[GitLab @deadYokai](https://gitlab.com/deadYokai/)** — m
 > Civilians are being killed. Cities are being bombed. This is not a "conflict" — it's an invasion.
 > If you can, please help.
 
-[![United24](https://img.shields.io/badge/United24-black?style=for-the-badge&link=https://u24.gov.ua/)](https://u24.gov.ua/)
-[![Hospitallers](https://img.shields.io/badge/Hospitallers-red?style=for-the-badge&link=https://www.hospitallers.life/needs-hospitallers)](https://www.hospitallers.life/needs-hospitallers)
-[![Prytula Foundation](https://img.shields.io/badge/Prytula_Foundation-white?style=for-the-badge&link=https://prytulafoundation.org/en)](https://prytulafoundation.org/en)
-[![Humanitarian Aid](https://img.shields.io/badge/Humanitarian_Aid-yellow?style=for-the-badge&link=https://help.gov.ua/en/)](https://help.gov.ua/en/)
+[![Stand For Ukraine](https://img.shields.io/badge/Stand_For_Ukraine-find_a_charity-blue?style=for-the-badge)](https://standforukraine.com/)
 
 ---
 
