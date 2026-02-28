@@ -35,3 +35,10 @@ My projects live at **[GitLab @deadYokai](https://gitlab.com/deadYokai/)** — m
 ### ☕ Support me directly
 
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/MyNameIsKitsune)
+
+---
+
+### 🧠 Mental Health Resources
+- 🇺🇦 [МН Україна](https://mhu.com.ua/) — `0800 100 102` (free, 24/7) 
+- 🇪🇺 [Mental Health Europe](https://www.mhe-sme.org/) — [find a helpline](https://www.findahelpline.com/)
+- 🇯🇵 [よりそいホットライン](https://www.since2011.net/yorisoi/) — `0120-279-338` (free, 24/7)
