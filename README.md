@@ -34,4 +34,4 @@ My projects live at **[GitLab @deadYokai](https://gitlab.com/deadYokai/)** — m
 
 ### ☕ Support me directly
 
-[![Patreon](https://badgen.net/badge/color/Patreon/orange?icon=patreon&label)](https://www.patreon.com/c/MyNameIsKitsune)
+[![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/MyNameIsKitsune)
