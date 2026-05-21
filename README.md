@@ -18,7 +18,7 @@ status: experimenting...
 
 > ⚠️ **`[EXPERIMENT IN PROGRESS]`** — Most things here are unstable by design.
 
-My projects live at **[GitLab @deadYokai](https://gitlab.com/deadYokai/)** — mirrored here when they survive long enough.
+My projects live at **[GitLab @deadYokai](https://gitlab.com/deadYokai/)** and **[my Gitea instance](https://git.yokai.digital/)** — mirrored here when they survive long enough.
 
 ---
 
