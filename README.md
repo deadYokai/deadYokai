@@ -36,6 +36,8 @@ My projects live at **[GitLab @deadYokai](https://gitlab.com/deadYokai/)** and *
 
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/MyNameIsKitsune)
 
+[![Liberapay](https://img.shields.io/liberapay/receives/deadYokai.svg?logo=liberapay")](https://liberapay.com/deadYokai/donate)
+
 ---
 
 ### 🧠 Mental Health Resources
