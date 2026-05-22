@@ -37,6 +37,7 @@ My projects live at **[GitLab @deadYokai](https://gitlab.com/deadYokai/)** and *
 
 [![Paypal](https://img.shields.io/badge/Paypal-black?style=for-the-badge&logo=paypal)](https://www.paypal.com/donate/?hosted_button_id=RLGYGXH4LZ8PC)
 [![Patreon](https://img.shields.io/badge/Patreon-black?style=for-the-badge&logo=patreon)](https://www.patreon.com/c/MyNameIsKitsune)
+[![Monobank](https://img.shields.io/badge/Monobank-black?style=for-the-badge)](https://send.monobank.ua/jar/9oVcUiHxPd)
 
 
 ---
