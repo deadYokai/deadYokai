@@ -1,18 +1,8 @@
-```yaml
-# /etc/kitsune/config.yml
-identity:
-  - { alias: kitsune,   scope: local,   note: "yokai / personal" }
-  - { alias: deadYokai, scope: general, note: "internet / git" }
-  - { alias: きつne,     scope: music,   note: "releases / audio experiments" }
-  host: yokai
-  domain: yokai.digital
-
-kernel: linux-tkg
-compositor: hyprland
-display_server: wayland
-distro: archlinux
-status: experimenting...
-```
+<p align="center">
+  <a href="https://yokai.digital">
+    <img src="https://yokai.digital/logo.svg" alt="yokai.digital">
+  </a>
+</p>
 
 ---
 
